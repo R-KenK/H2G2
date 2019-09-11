@@ -15,6 +15,3 @@ The answer.
 \description{
 Give the answer.
 }
-\examples{
-The_question(x=1337)
-}
